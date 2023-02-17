@@ -1,0 +1,6 @@
+do_token           = "dop_v1_f0105700359fb38339fabfd78fe4aeba1bc0e78151b08eb048343036fabf1c75"
+droplet_name       = "bitwarden"
+region             = "fra1"
+private_key_path   = "~/.ssh/id_do_bitwarden"
+public_key_path    = "~/.ssh/id_do_bitwarden.pub"
+ssh_fingerprint    = ""

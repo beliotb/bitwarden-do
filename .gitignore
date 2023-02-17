@@ -1,0 +1,22 @@
+# Ignore .terraform directory
+.terraform/
+
+# Ignore .tfstate files
+*.tfstate
+*.tfstate.*
+
+# Ignore tfvars files
+*.tfvars
+
+# Ignore any generated files
+*.tf.json
+*.tfplan
+
+# Ignore any crash log files
+crash.log
+
+# Ignore any .DS_Store files (for Mac users)
+.DS_Store
+
+# Ignore any .terraform.lock.hcl files
+.terraform.lock.hcl
